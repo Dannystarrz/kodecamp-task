@@ -199,7 +199,7 @@ width: 50%;
 
 .spring-sec{
     background-color: #d9b1b3;
-    height: 100vh;
+    height: 115vh;
     text-align: center;
     margin: 10px 0 0 0;
 }
@@ -231,16 +231,16 @@ width: 50%;
 }
 
 .imag1{
-    background-image: url(/img/begining\ image.jpg);
+    background-image: url(/img/slide-1.jpg);
 }
 .imag2{
-    background-image: url(/img/begining\ image.jpg);
+    background-image: url(/img/slide-2.jpg);
 }
 .imag3{
-    background-image: url(/img/begining\ image.jpg);
+    background-image: url(/img/slide-3.jpg);
 }
 .imag4{
-    background-image: url(/img/begining\ image.jpg);
+    background-image: url(/img/slide-4.jpg);
 }
 
 .seclast-sect{
@@ -288,7 +288,7 @@ width: 50%;
 }
 
 .last-div{
-    background-image: url(/img/begining\ image.jpg);
+    background-image: url(/img/subscribe.jpeg);
     width: 50%;
     flex-grow: 1;
     overflow: hidden;
@@ -363,4 +363,39 @@ img{
 
 .fb{
     margin-left: 180px;
+}
+
+.container-1{
+    background-image: url(/img/product-1.jpg);
+    display: flex;
+    flex-grow: 1;
+    overflow: hidden;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 6px;
+}
+
+.container-2{
+    background-image: url(/img/product-2.jpg);
+    display: flex;
+    flex-grow: 1;
+    overflow: hidden;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 6px;
+}
+
+.signat{
+    width: 500px;
+    height: 60px;
+}
+
+.arrw{
+    padding-top: 20px;
+    width: 45px;
+    height: 50px;
 }
